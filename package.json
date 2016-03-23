@@ -1,0 +1,19 @@
+{
+  "name": "hubot-zundoko",
+  "version": "0.0.7",
+  "description": "You can zundoko with hubot",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hubot",
+    "zundoko"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tomoki1207/hubot-zundoko.git"
+  },
+  "author": "tomoki1207",
+  "license": "MIT"
+}
